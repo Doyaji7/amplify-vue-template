@@ -12,7 +12,6 @@ import Todos from './components/Todos.vue'
         <button @click="signOut">Sign Out</button>
       </template>
     </authenticator>
-    <Todos />
   </main>
 </template>
 
